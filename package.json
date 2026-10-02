@@ -1,0 +1,8 @@
+{
+  "name": "educ-compta-cloudflare",
+  "type": "module",
+  "dependencies": {
+    "hono": "^4.7.0",
+    "@supabase/supabase-js": "^2.45.4"
+  }
+}
